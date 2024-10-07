@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sujal942&label=Profile%20views&color=0e75b6&style=flat" alt="Sujal@942" /> </p>
 
-<p align="left"> <a href="https://x.com/SujalJa13973286" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="sujaljain"  </p>
+<p align="left"> <a href="https://x.com/SujalJa13973286" target="blank"><img src="https://img.shields.io/twitter/follow/Sujaljain?logo=twitter&style=for-the-badge" alt="sujaljain"  </p>
 
 - 🌱 I’m currently learning **MERN**
 
