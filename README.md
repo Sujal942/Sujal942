@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sujal Jain</h1>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sujal942/count.svg?"  />
+</div>
 <h3 align="center">A passionate FrontEnd Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -65,9 +68,7 @@ Here are some ideas to get you started:
 <div align="center">
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal942&&theme=tokyonight" alt="Sujal942" /></p>
 </div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sujal942/count.svg?"  />
-</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sujal942&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sujal942&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
