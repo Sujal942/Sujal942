@@ -62,20 +62,15 @@ Here are some ideas to get you started:
                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
                   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
                    </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal942&&theme=tokyonight" alt="Sujal942" /></p>
+<div align="center">
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal942&&theme=tokyonight" alt="Sujal942" /></p>
+</div>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Sujal942/count.svg?"  />
 </div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sujal942&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sujal942&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Sujal942/Sujal942/output/snake.svg" alt="Snake animation" />
 
 ###
